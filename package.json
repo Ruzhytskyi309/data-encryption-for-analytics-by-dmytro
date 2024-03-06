@@ -1,11 +1,12 @@
 {
   "name": "data-encryption-for-analytics-by-dmytro",
-  "version": "2.4.7",
+  "version": "2.4.8",
   "description": "JavaScript package for encrypting and decrypting data in analytics applications. Uses AES-256-CBC encryption with Initialization Vector (IV) for enhanced security.",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
+    "realtimechatlibrarybymishaka": "^2.5.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -32,7 +33,12 @@
       "last 1 safari version"
     ]
   },
-  "keywords": ["data", "encryption", "analytics", "security"],
+  "keywords": [
+    "data",
+    "encryption",
+    "analytics",
+    "security"
+  ],
   "author": "Ruzhytskyi309",
   "license": "MIT",
   "repository": {
